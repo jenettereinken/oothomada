@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ipujoziiw.sent-hil.com/sitemap.xml
